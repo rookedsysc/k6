@@ -9,7 +9,7 @@ export let options = {
 };
 
 export default function() {
-  const url = 'http://192.168.1.12:8080/jpa/all';
+  const url = 'http://192.168.1.12:8080/jpa/ratio';
   // const url = 'http://192.168.1.12:8080/jpa/12';
 
   const params = {
